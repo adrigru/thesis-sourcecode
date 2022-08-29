@@ -1,0 +1,6 @@
+Starting execution: 2022-08-29T18:24:55.241817
+batch_size=64, epochs=10, learning_rate=0.767842, k=5, t_0=10, t_mult=2
+Best QWK for each fold: [0.37026347]
+Best F1-Micro each fold: [0.3875]
+Best F1-Macro each fold: [0.30156463]
+Best F1-Weighted each fold: [0.30982143]
